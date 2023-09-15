@@ -6,7 +6,7 @@ course at Concordia University.
 If forking/cloning this repository, remember to set it to “private”.
 Then when submitting your assignment/project, share it with me ([jwsmith@wyattai.com](mailto:jwsmith@wyattai.com)).
 
-## Assignment/Project Number ?
+## Assignment 2
 
 ## Brief description of Assignment/Project
 
@@ -30,3 +30,4 @@ pip install -r requirements.txt
 ```
 
 ## Extra Comments
+
